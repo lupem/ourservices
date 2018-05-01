@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
+body {
+	font-family: 'Open Sans', sans-serif;
+	color: #333;
+	font-size: 14px;
+}
+
+#sec-rs {
+	background-color: #555;
+	color: #fff;
+	padding: 10px 0px;
+}
+
+#sec-rs .fab{
+	color: #fff;
+}
+
+#sec-rs .fab:hover{
+	color: #333;
+}
+
+#sec-gt {
+	background-image: url(../img/bg-hero.jpg);
+}
+
+.multi {
+	color: #E96A57;
+}
+
+.circle {
+	border-radius: 100px;
+	background-color: #E96A57;
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+}
+
+#sec-features .fas {
+	color: #FFFFFF;
+}
+
+#sec-features .fab {
+	color: #FFFFFF;
+}
+
+.cuadro {
+	margin-top: 10px;
+}
+
+#sec-features {
+	margin-top: 20px;
+}
+
+#sec-people {
+	margin-top: 50px;
+}
+
+#sec-quote {
+	margin-top: 10px;
+}
+
+#sec-quote .fas{
+	color: #7A7A7A;
+}
+
+#sec-quote h5 {
+	color: #7A7A7A;
+}
+
+.negro {
+	color: #000000;
+}
+
+#sec-services {
+	margin-bottom: 40px;
+}
+
+#sec-whatwedo {
+	margin-bottom: 30px;
+}
+
+.cuadroservice {
+	background-color: #E4E4E4;
+	padding: 20px 20px;
+	
+}
+
+.circlecloud {
+	border-radius: 100px;
+	background-color: #6BC459;
+	width: 70px;
+	height: 70px;
+	line-height: 70px;
+	text-align: center;
+}
+
+.circlemail {
+	border-radius: 100px;
+	background-color: #FFC600;
+	width: 70px;
+	height: 70px;
+	line-height: 70px;
+	text-align: center;
+}
+
+.circlecode {
+	border-radius: 100px;
+	background-color: #6BC7FB;
+	width: 70px;
+	height: 70px;
+	line-height: 70px;
+	text-align: center;
+}
+
+.circlephone {
+	border-radius: 100px;
+	background-color: #FF6E00;
+	width: 70px;
+	height: 70px;
+	line-height: 70px;
+	text-align: center;
+}
+
+#sec-custom .fas {
+	color: #FFFFFF;
+}
+
+#sec-custom .far {
+	color: #FFFFFF;
+}
+
+footer {
+	background-color: #555;
+	color: #FFFFFF;
+}
+
+#sec-custom {
+	margin-bottom: 30px;
+}
+
+footer li {
+	list-style: none;
+}
